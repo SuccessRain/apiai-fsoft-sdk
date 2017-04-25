@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ go get -u github.com/meinside/api.ai-go
+$ go get -u github.com/SuccessRain/apiai-fsoft-sdk
 ```
 
 ## Usage / Example
